@@ -1,0 +1,21 @@
+
+body {
+  overflow: hidden; 
+  
+}
+
+.loginPage {
+  width: 100%; 
+  height: 100vh;
+  background-color: #f8f9fa; 
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #343a40; /* Dark background for footer */
+  color: white;
+  text-align: center;
+  padding: 0.5rem 0;
+}

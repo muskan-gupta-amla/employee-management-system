@@ -1,0 +1,50 @@
+.loginPage {
+ 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% 120%;
+  
+}
+
+
+.loginForm {
+  background-color: rgb(32, 32, 32);
+  color: white;
+  text-align: left;
+  height: 300px;
+  width: 500px;
+  
+}
+
+.adminloginPage{
+
+  background-color: rgb(32, 32, 32);
+  color: white;
+  text-align: left;
+
+
+}
+
+.adminloginForm{
+
+  width: 400px;
+}
+
+
+
+#root {
+  width: 100%;
+  padding: 0;
+  
+  max-width: 100%;
+}
+
+.editIcon {
+  width: 5px;
+  padding: 0
+}
+
+.deleteIcon {
+  width: 5px;
+  padding: 0
+}
